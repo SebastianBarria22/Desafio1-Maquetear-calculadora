@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+button{
+    border-radius: 35px;
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
+.container{
+height: 100vh;
+justify-content: center;
+align-content: center;
+background-color: rgb(44, 62, 80);
+margin: none;
+border-left: 350px solid black;
+border-right: 350px solid black;
+}
+
+.pantalla{
+
+    height: 240px;
+    margin: none;
+    background-color: rgb(44, 62, 80);
+}
+#valor-guardado{
+ 
+    height: 80px;
+    margin: none;
+}
+#operacion{
+
+    height: 80px;
+}
+#valor-actual{
+
+    height: 80px;
+}
+.teclado{
+    margin: none;
+    height: 370px;
+    background-color: rgb(86, 101, 115 );
+    border-radius: 5%;
+    justify-content: center;
+    align-content: center;
+}
+#num{
+   
+    height: 90px;
+}
+#ope{
+
+    height: 90px; 
+}
